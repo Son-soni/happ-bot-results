@@ -1,6 +1,0 @@
-ÈÑÕÎÄÍÀß ÑÑÛËÊÀ:
-happ://crypt5/fzvdkFXDpLdEvtrRl6YGU7Rl21sdmI6PllfmA6wbnigBam2erwBZ1LVT8OXmRNDH0YMjq+O/vWDiUozJ/ndwZOM9fYmxa9n3DNQUHQ8I8bVbMkq2RnDCoK83fj5G6GMa6Bagz1vBrsaJc+UN9herpVwXQ822oGodQsXXI/Orj55x8BX9U29M7B2FOWKgGhedCnGHt2g9yyUlOC4LV62ou3Fuv/8Ex0fgTpSZd44B0CyrBCITLgC/sh==b1p44HEVpYSinjUIwgijmVAFdAYyORO/a4XbS4m0X07lF+2CcnEEFwhw1gerT93oh0TPcEAEl7sekYJ6E0X/syRlhGhfJfrOShbMSwATfdzZaQPtopEtwhz5M4eiFNbsMiiUvbkKrMf6vfIr5f3x2jDBbNH8zJI0mQ0J5L91UjAYKxFwSbavbTs7JNXg6cBSCTgi1SeBDTQ4GAmoiaDS+F6U2R22NaJhaYLHd8w9JTga+75XcV8AZGKhiJOpjtWM0ajLh4dFWHDBMHDgvdtISI4wKbLQvR4gxIFjLi+aqjeunSCuP9QTLKigdJ73/dXxocLvtD8L1nwM/BEYFd01n6Fdsi8OXXAGVm/FgRsIGHQDfgi7aCvAaWw/ySmUTZBcQ8NAevXDuBOh7fY5y5/H3FOJeFEwOtTWycsDsl4Yct5CWtuxqsCydtdmhcaIDdmNSsUY6s+75zVpDE8Nlc1B+w6rsrg789VTHXy7fRkYHihLGldWrfYIAuMoUIFutrRslWQSLiz2S/aPE7UsQeN6Oy+oLhhM89t1UHMBWCqqeX3Llp+d7ElBYcmebcygrTpOKF13KoNLR9hhLeR5baxlolloGSP49oExvsgdbr0Cxfn+3lmsPN8TvDfFOC5phCk6xFoxlJHxPPqf1+O4hQ2FxhrRRo1XObwPdyI2JTYZfos=ff
-
-ÐÅÇÓËÜÒÀÒ:
-happ://crypt/<base64( RSA_block1 || RSA_block2 || ... )>
-------------------------------------------------------------
